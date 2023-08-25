@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571833445329",
+    "project_id": "cricketarena-d2ea9",
+    "storage_bucket": "cricketarena-d2ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571833445329:android:5bcfe42281ea65452c8ef0",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571833445329-bdhoqbta5lma6v6cs23it4utepvet6u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFecRKg2PCNmHY3xTsqZWQpVFmvvE-A3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571833445329-bdhoqbta5lma6v6cs23it4utepvet6u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
